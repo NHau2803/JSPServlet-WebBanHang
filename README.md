@@ -1,4 +1,4 @@
 # demo-jsp-serverlet
 
 # Description
-Example of know basic JSP Serverlet and JDBC
+Example of know basic JSP Servlet and JDBC
